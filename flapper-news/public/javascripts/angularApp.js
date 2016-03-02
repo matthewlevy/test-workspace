@@ -8,6 +8,8 @@ app.factory('posts', [function(){
   return o;
 }]);
 
+
+
 app.config([
   '$stateProvider',
   '$urlRouterProvider',
